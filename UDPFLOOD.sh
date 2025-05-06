@@ -17,7 +17,7 @@ echo
 echo "UDP FLOOD by Andromeda 403 | 403 Forbidden"
 echo
 echo
-echo "Target IP:" && read ip
+echo "Target IP:" Cabybaramc.fun "
 echo
 echo "Target Port:" && read port
 echo "SENDING ATTACK TO $ip in PORT $port | TO STOP: CTRL + C..."
